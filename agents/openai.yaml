@@ -1,0 +1,4 @@
+interface:
+  display_name: "China Policy Risk"
+  short_description: "Assess Chinese policy risks for ordinary residents."
+  default_prompt: "Use $china-policy-risk-analysis to analyze this Chinese policy's hidden motives, unfinished-policy risk, and ordinary resident risk controls."

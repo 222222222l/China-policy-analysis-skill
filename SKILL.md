@@ -1,0 +1,175 @@
+---
+name: china-policy-risk-analysis
+description: Analyze Chinese public policies from an ordinary resident risk-management perspective, especially fiscal, monetary, financial, housing, pension, social security, industrial, platform, capital-market, local-government, and regulatory policies. Use when the user asks to interpret a Chinese policy, assess winners and losers, identify implementation risk, map supporting policies, infer policy constraints, or give cautious ordinary-resident risk-control guidance.
+---
+
+# China Policy Risk Analysis
+
+## Core Stance
+
+Analyze Chinese policies as practical transmission mechanisms, not as slogans. Treat official documents as primary evidence, then examine how the policy may move funding, risk, incentives, and constraints across institutions, firms, local governments, and residents.
+
+Use a cautious ordinary-resident perspective. The goal is not to maximize speculative upside; it is to reduce the chance that ordinary households become the final risk bearer of a policy transition.
+
+## Evidence Discipline
+
+Use current primary sources for facts that may have changed: State Council, PBOC, NDRC, MOF, CSRC, NFRA, SAFE, MOHRSS, local governments, exchanges, official Q&A, implementation rules, and market-data releases. If browsing is available and the policy is current or source-dependent, browse.
+
+Separate:
+
+- **Text facts**: what the policy literally says.
+- **Policy constraints**: what fiscal, financial, social, industrial, or external pressures the policy may be managing.
+- **Transmission inference**: likely effects through balance sheets, incentives, liquidity, and implementation capacity.
+- **Resident guidance**: conservative, legal, ordinary-household actions; never imply guaranteed returns.
+
+State uncertainty and probability ranges when judging hidden motives or implementation risk.
+
+## Analysis Workflow
+
+### 1. Identify the Policy Object
+
+Pin down:
+
+- Issuer, date, legal rank, geography, and implementation agency.
+- Whether it is a speech, plan, regulation, notice, pilot, funding tool, guidance, enforcement action, or public communication signal.
+- Whether it creates funding, reallocates risk, changes rules, expands monitoring, or changes market access.
+
+### 2. Decode the Official Narrative
+
+Extract stated goals, then translate them into concrete mechanisms:
+
+- "Stability" may relate to defaults, unemployment, market volatility, fiscal pressure, capital flow, or financial-sector confidence.
+- "High-quality development" may imply resource reallocation from old growth models to preferred industries.
+- "Marketization" may mean using market balance sheets while preserving policy intervention tools.
+- "Investor protection" should be checked against disclosure, compensation, litigation, delisting, audit, and enforcement mechanisms.
+- "Pilot" may mean controlled experimentation, selective access, or a future national rollout.
+
+### 3. Map Policy Priorities and Constraints
+
+Ask in order:
+
+- What macro, fiscal, financial, industrial, demographic, or social-stability problem is the policy trying to manage?
+- What problem is being solved now, and what problem may simply be postponed?
+- Which institutions gain funding, market share, regulatory flexibility, or easier exit?
+- Which groups face lower yields, higher fees, lock-up, greater uncertainty, or delayed loss recognition?
+- What realistic benefit channel remains for ordinary residents, and what risk is attached to it?
+
+### 4. Map Winners, Losers, and Risk Bearers
+
+When relevant, split at least these groups:
+
+- Central authorities and regulators.
+- Local governments and local financing vehicles.
+- Large state-owned banks and policy banks.
+- Small and local banks.
+- Non-bank financial institutions: securities firms, funds, insurers, trusts, wealth-management subsidiaries.
+- State-owned enterprises, private enterprises, platform companies, exporters, property developers, and policy-favored industries.
+- Residents as workers, savers, borrowers, home buyers, investors, taxpayers, and pension contributors.
+- Foreign capital and offshore institutions.
+
+For each group, distinguish:
+
+- Direct benefit.
+- Hidden cost.
+- Liquidity support versus solvency repair.
+- Optionality gained or lost.
+- Ability to exit before losses crystallize.
+
+### 5. Trace Transmission Chains
+
+Describe the actual mechanism, not just the policy label.
+
+Common chains:
+
+- Monetary policy: central bank tool -> interbank rate -> banks/non-banks -> asset prices -> credit allocation -> resident savings, borrowing, and employment.
+- Fiscal policy: central/local budget -> transfer payments/special bonds/taxes/fees -> local implementation -> contractor/SOE/household cash flow.
+- Housing policy: purchase/credit rules -> developer liquidity -> land finance -> local fiscal gap -> banks and households.
+- Pension/social-security policy: contribution rule -> fiscal gap relief -> product lock-up -> resident liquidity and future rule-change exposure.
+- Capital-market policy: regulatory support -> institutional funding -> valuation/liquidity -> retail inflows -> final risk bearing.
+- Industrial policy: subsidies/credit/tax preferences -> capacity expansion -> price competition/overcapacity -> employment and investor returns.
+
+Look for where the chain can break.
+
+### 6. Assess Implementation Risk
+
+For every major policy, estimate implementation risk as Low, Medium, High, or Very High with a rough probability range.
+
+Use these failure modes:
+
+- **No real increment**: policy reallocates existing money rather than creating durable income or productivity.
+- **Local implementation distortion**: local governments lack fiscal capacity or reshape the policy around their own balance sheets.
+- **Incentive mismatch**: banks, firms, or officials are ordered to act against their risk interests and comply only superficially.
+- **Moral hazard**: support tools encourage leverage, speculation, or weak-asset extension.
+- **Exit bottleneck**: institutions get liquidity or exit rights while residents get lock-up or delayed loss recognition.
+- **Data opacity**: weak disclosure, weak audit, hidden local debt, off-balance-sheet products, or manipulated classifications.
+- **Legal weak point**: no enforceable compensation, litigation, delisting, bankruptcy, or investor-protection route.
+- **Policy reversal risk**: changing priorities, external shocks, or stability concerns override the original policy design.
+
+Do not treat policy publication as policy success.
+
+### 7. Search for Supporting Policies
+
+After the main policy, search for linked implementation rules and adjacent policies:
+
+- Funding source, quota, facility size, interest rate, collateral rule, eligibility list, tax rule, duration, pilot city, implementing bank, product list, and enforcement agency.
+- Prior policies that created the problem being addressed.
+- Later policies that fill missing pieces.
+- Missing rules that are necessary for success.
+
+If support policies are absent, infer likely future support packages and their side effects. Common likely supports:
+
+- Low-rate refinance, relending, swap, guarantee, or special bond funding.
+- Guidance to banks, insurers, funds, pensions, or local governments.
+- Tax deferral, fee cut, subsidy, consumption voucher, trade-in program, or targeted transfer.
+- Data-reporting, anti-fraud, anti-speculation, capital-control, or market-stabilization rules.
+- Mergers, recapitalization, debt swap, bailout, or forced consolidation for weak institutions.
+
+### 8. Give Ordinary-Resident Guidance Last and Conservatively
+
+Frame guidance around avoiding irreversible loss before seeking upside.
+
+Always consider residents separately as:
+
+- Worker: employment, wage arrears, industry exposure, need to reskill or relocate.
+- Saver: bank concentration, deposit insurance limits, rate cuts, product substitution pressure.
+- Borrower: mortgage, consumer debt, business debt, variable-rate exposure.
+- Homeowner/home buyer: liquidity, population trend, local fiscal health, resale depth.
+- Investor: equity, bond funds, money-market funds, bank wealth products, insurance, pension accounts.
+- Taxpayer/social-security contributor: future contribution, delayed retirement, benefit rule changes.
+
+Use these guardrails:
+
+- Prefer liquidity, simplicity, diversification, and legal enforceability.
+- Avoid leverage for policy trades.
+- Avoid products whose loss is delayed, opaque, or locked beyond household planning needs.
+- Treat "policy-supported", "state-backed", "fixed income plus", "principal-like", "pension", and "stable/steady" as marketing words until product rules prove otherwise.
+- Warn that central-bank or state support usually protects system liquidity, not individual product principal.
+- Separate emergency cash from return-seeking assets.
+
+### 9. Product-Specific Resident Warnings
+
+Apply these cautions when relevant:
+
+- **Bank deposits**: check institution quality and keep deposit-insurance limits in mind; avoid chasing unusually high rates from weak local banks.
+- **Money-market funds**: not deposits, no deposit insurance, yield can fall quickly, and extreme liquidity events can create redemption stress.
+- **Bond funds**: long-duration funds can lose principal when rates rise; credit funds can hide default and liquidity risk.
+- **High-dividend assets**: still equities; dividend yield does not prevent large capital drawdowns, value traps, or policy-driven repricing.
+- **Personal pension accounts**: beware lock-up, uncertain future tax and withdrawal rules, product fees, low current tax benefit for low-tax residents, and irreversible liquidity loss.
+- **Insurance savings products**: review surrender value, fee structure, real guaranteed return, insurer credit, and liquidity restrictions.
+- **Housing**: distinguish self-use from investment; policy support for developers or local finance does not guarantee household resale liquidity or price appreciation.
+- **Thematic funds and policy sectors**: policy support can create overcapacity and price competition; prefer diversified exposure over single-theme concentration.
+
+### 10. Output Structure
+
+For a full analysis, use this concise structure:
+
+1. **Bottom Line**: one direct judgment, including implementation risk.
+2. **Official Surface vs Real Constraint**: what the text says versus what problem it is likely managing.
+3. **Transmission Chain**: how the policy works and where it can fail.
+4. **Winners, Losers, Final Risk Bearers**: include ordinary residents explicitly.
+5. **Supporting Policies and Missing Pieces**: what exists, what is absent, what may come next.
+6. **Short-Term Effects**: liquidity, prices, sentiment, employment, leverage.
+7. **Long-Term Consequences**: structural redistribution, moral hazard, debt, institution survival, household wealth.
+8. **Ordinary Resident Playbook**: risk avoidance first, opportunity second; include concrete but non-personalized actions.
+
+When making a candid inference, distinguish evidence from inference and avoid presenting speculation as fact.
