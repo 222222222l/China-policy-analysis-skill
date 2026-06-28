@@ -1,6 +1,6 @@
 ---
 name: china-policy-risk-analysis
-description: Analyze Chinese public policies from an ordinary resident risk-management perspective, especially fiscal, monetary, financial, housing, pension, social security, industrial, platform, capital-market, local-government, and regulatory policies. Use when the user asks to interpret a Chinese policy, assess winners and losers, identify implementation risk, map supporting policies, infer policy constraints, or give cautious ordinary-resident risk-control guidance.
+description: Analyze Chinese public policies from an ordinary resident risk-management perspective, especially fiscal, monetary, financial, housing, pension, social security, industrial, platform, capital-market, local-government, regulatory, and macro-financial systemic-risk policies. Use when the user asks to interpret a Chinese policy, assess winners and losers, identify implementation or unfinished-policy risk, map supporting policies, infer policy constraints, verify official data through sub-item decomposition, bias/water estimation, and cross-checks, analyze China's macro-financial pressure valves such as RMB exchange rate, property, local debt, banks, employment/income, capital controls, and stock/capital markets, or give cautious ordinary-resident risk-control guidance.
 ---
 
 # China Policy Risk Analysis
@@ -15,6 +15,8 @@ Use a cautious ordinary-resident perspective. The goal is not to maximize specul
 
 Use current primary sources for facts that may have changed: State Council, PBOC, NDRC, MOF, CSRC, NFRA, SAFE, MOHRSS, local governments, exchanges, official Q&A, implementation rules, and market-data releases. If browsing is available and the policy is current or source-dependent, browse.
 
+When the analysis relies on official statistics or regulator disclosures, read references/official-data-consistency-check.md. Do not rely on headline categories alone; inspect sub-items, quantify possible statistical bias or "water" as a range, cross-check with adjacent evidence, and explain contradictions before drawing policy or resident-risk conclusions.
+
 Separate:
 
 - **Text facts**: what the policy literally says.
@@ -23,6 +25,22 @@ Separate:
 - **Resident guidance**: conservative, legal, ordinary-household actions; never imply guaranteed returns.
 
 State uncertainty and probability ranges when judging hidden motives or implementation risk.
+
+## China Macro-Financial Pressure-Valve Framework
+
+When the user asks about China's financial system, systemic financial risk, RMB exchange rate, property-market stress, local debt, LGFVs, bank risk, employment and income pressure, capital controls, capital-market stabilization, A-share policy bull markets, ordinary-resident wealth transfer, or whether financial stress is being contained or shifted, read references/china-macro-financial-pressure-valves.md before producing a view.
+
+Use the seven pressure valves as a connected system, not as separate topics:
+
+- RMB exchange rate.
+- Property market.
+- Local debt and urban investment vehicles.
+- Banking system.
+- Employment and income.
+- Capital controls.
+- Stock and capital markets.
+
+For each valve, classify level, first derivative, second derivative, policy tools being used, pressure-transfer direction, final risk bearers, unfinished-policy risk, and ordinary-resident impact. Do not infer systemic collapse from one stressed valve alone; look for pressure acceleration and cross-valve contagion.
 
 ## Analysis Workflow
 
@@ -171,5 +189,16 @@ For a full analysis, use this concise structure:
 6. **Short-Term Effects**: liquidity, prices, sentiment, employment, leverage.
 7. **Long-Term Consequences**: structural redistribution, moral hazard, debt, institution survival, household wealth.
 8. **Ordinary Resident Playbook**: risk avoidance first, opportunity second; include concrete but non-personalized actions.
+
+For macro-financial systemic-risk analysis, also include:
+
+- **Seven-Valve Dashboard**: RMB exchange rate, property, local debt, banks, employment/income, capital controls, stock/capital markets.
+- **Pressure Transfer**: main pressure source, current absorber, next likely valve, and final household channel.
+- **Policy Tool Type**: liquidity repair, solvency repair, confidence management, control tightening, or loss socialization.
+- **Derivative Warning**: level, first derivative, second derivative, and whether cross-valve contagion is visible.
+
+When official data is material, also include:
+
+- **Official Data Check**: headline, most important sub-items, reliability score, possible bias/water range, reconstructed range, confirming evidence, contradicting evidence, and likely reason for discrepancy.
 
 When making a candid inference, distinguish evidence from inference and avoid presenting speculation as fact.
