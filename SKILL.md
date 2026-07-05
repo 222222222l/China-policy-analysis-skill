@@ -26,6 +26,17 @@ Separate:
 
 State uncertainty and probability ranges when judging hidden motives or implementation risk.
 
+## Words-versus-Actions Check
+
+When an analysis involves an intentional actor such as a government, regulator, public institution, bank, state-owned enterprise, company, or industry body, do not infer its true stance from statements alone. Build a dated comparison of:
+
+- **Words**: speeches, policy goals, forecasts, guidance, promises, and public narratives.
+- **Actions**: budgets, funding, balance-sheet changes, credit terms, staffing, enforcement, procurement, transactions, implementation scope, and who actually receives money or bears risk.
+- **Control and constraints**: whether the actor controlled the action or was constrained by law, liquidity, superior authorities, inherited commitments, or implementation capacity.
+- **Consistency**: whether words and actions agree, lag for a plausible operational reason, or materially diverge.
+
+When words and actions materially diverge, treat repeated, costly, scalable, and hard-to-reverse actions within the actor's control as its revealed preference and primary evidence. Downweight unsupported statements accordingly. Do not over-attribute one isolated or forced action: distinguish central from local actors, principals from agents, announced plans from funded execution, and pilots from broad implementation. State the inferred true stance and confidence level.
+
 ## China Macro-Financial Pressure-Valve Framework
 
 When the user asks about China's financial system, systemic financial risk, RMB exchange rate, property-market stress, local debt, LGFVs, bank risk, employment and income pressure, capital controls, capital-market stabilization, A-share policy bull markets, ordinary-resident wealth transfer, or whether financial stress is being contained or shifted, read references/china-macro-financial-pressure-valves.md before producing a view.
@@ -183,12 +194,13 @@ For a full analysis, use this concise structure:
 
 1. **Bottom Line**: one direct judgment, including implementation risk.
 2. **Official Surface vs Real Constraint**: what the text says versus what problem it is likely managing.
-3. **Transmission Chain**: how the policy works and where it can fail.
-4. **Winners, Losers, Final Risk Bearers**: include ordinary residents explicitly.
-5. **Supporting Policies and Missing Pieces**: what exists, what is absent, what may come next.
-6. **Short-Term Effects**: liquidity, prices, sentiment, employment, leverage.
-7. **Long-Term Consequences**: structural redistribution, moral hazard, debt, institution survival, household wealth.
-8. **Ordinary Resident Playbook**: risk avoidance first, opportunity second; include concrete but non-personalized actions.
+3. **Words vs Actions**: whether implementation, funding, enforcement, or balance-sheet behavior confirms the stated position; when it does not, identify the revealed preference and confidence.
+4. **Transmission Chain**: how the policy works and where it can fail.
+5. **Winners, Losers, Final Risk Bearers**: include ordinary residents explicitly.
+6. **Supporting Policies and Missing Pieces**: what exists, what is absent, what may come next.
+7. **Short-Term Effects**: liquidity, prices, sentiment, employment, leverage.
+8. **Long-Term Consequences**: structural redistribution, moral hazard, debt, institution survival, household wealth.
+9. **Ordinary Resident Playbook**: risk avoidance first, opportunity second; include concrete but non-personalized actions.
 
 For macro-financial systemic-risk analysis, also include:
 
